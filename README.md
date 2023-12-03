@@ -1,4 +1,6 @@
 # SR_BTS
+This is the repository of Assessing diversity and representativeness of big team science in psychology [Stage 1 RR Protocol]
+
 - A description of the folder structure
 - 
 |-root_dir
